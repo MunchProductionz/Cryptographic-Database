@@ -1,4 +1,4 @@
-# Project 2 Starter Code
+# CS161 - Computer Security: Project 2
 
 This repository contains the code for Project 2 from CS161 - Computer Security at UCB Fall 2022.
 
